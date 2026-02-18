@@ -1,0 +1,5 @@
+{
+  "name": "02.17. 에듀로그 (EduLog) AI - 스마트 학생 활동 기록기",
+  "description": "선생님들을 위한 스마트한 학생 활동 관찰 기록 및 생활기록부 문체 변환 도구입니다. 구글 시트 연동과 Gemini AI를 통해 생기부 작성을 혁신하세요.",
+  "requestFramePermissions": []
+}
